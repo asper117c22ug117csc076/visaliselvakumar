@@ -1,0 +1,5 @@
+addition of three numbers
+a=4
+b=7
+c=3
+print(a+b+c)
